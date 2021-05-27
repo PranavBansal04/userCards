@@ -1,6 +1,10 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+##As asked in the assignment I have added a nav bar with a brand name and logo and a button which has a onclick function
 
 ## Available Scripts
 
