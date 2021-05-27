@@ -1,10 +1,13 @@
 
+## As asked in the assignment I have added a nav bar with a brand name and logo and a button which has a onclick function. There is a separate animated loader component and while the data is being fetched from the API, Loader component is shown. Once the data fetch is complete the loader variable becomes false and that data is passed to the UserCards component where cards are arranged using grids.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-##As asked in the assignment I have added a nav bar with a brand name and logo and a button which has a onclick function
 
 ## Available Scripts
 
