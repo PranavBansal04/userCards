@@ -1,5 +1,5 @@
 
-## As asked in the assignment I have added a nav bar with a brand name and logo and a button which has a onclick function. There is a separate animated loader component and while the data is being fetched from the API, Loader component is shown. Once the data fetch is complete the loader variable becomes false and that data is passed to the UserCards component where cards are arranged using grids.
+### As asked in the assignment I have added a nav bar with a brand name and logo and a button which has a onclick function. There is a separate animated loader component and while the data is being fetched from the API, Loader component is shown. Once the data fetch is complete the loader variable becomes false and that data is passed to the UserCards component where cards are arranged using grids. There is a spearate css file style.css for styling the cards and user images inside them.
 
 
 
